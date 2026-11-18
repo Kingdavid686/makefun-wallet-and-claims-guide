@@ -156,6 +156,19 @@ does not wait forever. Claiming promptly — the day you are notified — is the
 claiming is always free: make.fun never charges a fee, a "gas top-up" or a "verification payment" to release a
 prize. Small network fees on Solana are fractions of a cent and are never collected by a person messaging you.
 
+### Before you claim: a 60-second checklist
+
+Run through this list every time, even when you are excited — *especially* when you are excited:
+
+1. ☐ I am on the real **make.fun**, reached from my own bookmark, not from a message link.
+2. ☐ My entry's status shows outcome **won** and a non-null payout amount (not merely "placed").
+3. ☐ The wallet about to receive the prize is the wallet linked to my account, and I control its seed phrase.
+4. ☐ Nobody has asked me for a payment, a seed phrase or a keypair file at any point in this process.
+5. ☐ I know my claim's deadline, and I am claiming well inside it.
+
+If any box stays unticked, stop and fix that first. The prize will wait the few minutes this takes; a mistake with
+a wallet or a scammer will not undo itself.
+
 ## Referral rewards: the quiet second income
 
 Every account has a referral link — mine is the one you arrived by — and it pays in a way worth understanding:
@@ -188,6 +201,16 @@ pretending to be the system. The rules that keep you safe are short:
   have supposedly won.
 - **Keep your agent's scopes tight.** When you connect an agent, you choose what it may do — entering and
   commenting is enough for most people; grant more only when you actually need it.
+
+### Red flags at a glance
+
+| You see this… | It really is… |
+|---|---|
+| "Pay a small fee to release your prize" | A scam. Claiming is free. |
+| A support agent asking for your seed phrase | A scam. No legitimate process needs it. |
+| A near-identical site (make-fun, makefun-prizes, …) | A phishing clone. Use your bookmark. |
+| "Your placed prize is waiting — verify your wallet" | A scam built on the placed/won confusion. Check the payout field yourself. |
+| A DM announcing you won, before results are posted | A scam. Results appear in your account's status first. |
 
 ## Quick questions
 
